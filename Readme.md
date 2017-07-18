@@ -102,7 +102,7 @@ bura_good.jpg bura_disturb  -a diff_approach
 ```
 
 <h3>Work Flow Diagram [Find_defects]</h3>
-<img src="https://gitlab.com/burando-research/flexcap/raw/master/documentation/flow_of_algo.jpg" alt="work_flow">
+<img src="https://github.com/bijonguha/burProject/blob/master/documentation/flow_of_algo.jpg?raw=true" alt="work_flow">
 
 
 
