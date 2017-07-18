@@ -4,7 +4,6 @@
 ## Getting Started  
   
 Clone this repository and download all files
-run main.py
 
 ### Prerequisites
 
